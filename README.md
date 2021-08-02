@@ -1,6 +1,6 @@
 # helloworld (Scala)
 
-First project with Scala 3. 
+First project with Scala 2.13. 
 
 ## Tools
 
